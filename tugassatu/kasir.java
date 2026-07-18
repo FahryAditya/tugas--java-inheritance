@@ -1,10 +1,10 @@
-package pewarisan_sifat;
+package pewarisan_sifat; //ini adalah package dan tempat semua fungsi nya
 
 public class kasir extends pegawai{
 
 @Override
 
-public void menampilkan()
+public void menampilkan() //ini memanggil fungsi menampilkan
 
 {
 
